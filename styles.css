@@ -1,0 +1,47 @@
+* {
+    font-family: Roboto, sans-serif;
+    color: white;
+}
+
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+.wrapper {
+    width: 50%;
+    margin: 0 auto;
+    background: rgba(0, 0, 0, 0.25);
+    padding: 1rem;
+}
+
+.list-wrapper {
+    text-align: center;
+}
+
+ul, ol {
+    display: inline-block;
+}
+
+li {
+    text-align: left
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: rgb(59, 59, 59);
+}
+
+h1, h2, h3 {
+    font-family: Oswald, sans-serif;
+}
